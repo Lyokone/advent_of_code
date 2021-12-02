@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'dart:io';
-import 'package:collection/collection.dart';
 
 class Direction {
   final String direction;
